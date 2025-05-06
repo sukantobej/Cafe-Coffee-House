@@ -109,5 +109,6 @@ Top Store Locations: Hell’s Kitchen and Astoria perform best in both footfall 
 
   
 📎 **Conclusion**
--This project demonstrates how Excel can be used as a powerful business intelligence tool. By consolidating sales data into a visually rich and interactive dashboard, Cafe Coffee House can drive better business decisions, identify sales trends, optimize operations, and improve customer experience.
+
+This project demonstrates how Excel can be used as a powerful business intelligence tool. By consolidating sales data into a visually rich and interactive dashboard, Cafe Coffee House can drive better business decisions, identify sales trends, optimize operations, and improve customer experience.
   
