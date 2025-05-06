@@ -2,10 +2,10 @@
 
 This project presents a comprehensive dashboard for **Cafe Coffee House**, designed to analyze and visualize business performance using key sales and customer insights. It provides a snapshot of operational metrics, helping stakeholders make informed decisions based on real-time data.
 
-📌 Project Overview
+📌**Project Overview**
 Cafe Coffee House is a premium café chain offering a wide range of beverages and snacks. The goal of this project is to build a comprehensive, interactive Excel dashboard to help stakeholders analyze key performance metrics like total sales, footfall, average billing, product performance, and category trends. This data-driven dashboard aids in making informed business decisions, optimizing peak operating hours, product offerings, and promotional strategies.
 
-🚀 Process of Creating the Dashboard
+🚀 **Process of Creating the Dashboard**
 1️⃣ Data Extraction & Cleaning
 Collected raw sales, product, and store location data.
 
@@ -73,7 +73,7 @@ Locked and protected sheets to prevent accidental edits.
 
 Utilized combo charts, pie charts, and bar graphs for rich visual storytelling.
 
-📊 Key Business Insights
+📊 **Key Business Insights**
 Total Sales: $6,98,812.33 with a total footfall of 149,116.
 
 Avg Order/Person: 1.44 | Avg Bill/Person: $4.69
@@ -96,10 +96,10 @@ Top Store Locations: Hell’s Kitchen and Astoria perform best in both footfall 
 
 🛠️ **Tools Used**  
 - Excel (Power Query, Data Modeling, Pivot Tables)  
-- Data Cleaning & Transformation  
-- Joins & Relationships  
+- Data Cleaning & Transformation    
 - Data Visualization & Dashboarding
-- 
-  📎 Conclusion
+
+  
+📎 **Conclusion**
 This project demonstrates how Excel can be used as a powerful business intelligence tool. By consolidating sales data into a visually rich and interactive dashboard, Cafe Coffee House can drive better business decisions, identify sales trends, optimize operations, and improve customer experience.
   
