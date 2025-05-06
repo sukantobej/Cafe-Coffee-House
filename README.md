@@ -50,6 +50,7 @@ excel
 Copy
 Edit
 =FORMAT(Order[Order_Date],"DDDD")
+
 4️⃣ **Pivot Tables & Insights Generation**
 
 Created key pivot tables to drive dashboard metrics:
