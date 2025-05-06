@@ -3,10 +3,13 @@
 This project presents a comprehensive dashboard for **Cafe Coffee House**, designed to analyze and visualize business performance using key sales and customer insights. It provides a snapshot of operational metrics, helping stakeholders make informed decisions based on real-time data.
 
 📌**Project Overview**
+
 Cafe Coffee House is a premium café chain offering a wide range of beverages and snacks. The goal of this project is to build a comprehensive, interactive Excel dashboard to help stakeholders analyze key performance metrics like total sales, footfall, average billing, product performance, and category trends. This data-driven dashboard aids in making informed business decisions, optimizing peak operating hours, product offerings, and promotional strategies.
 
 🚀 **Process of Creating the Dashboard**
-1️⃣ Data Extraction & Cleaning
+
+1️⃣ **Data Extraction & Cleaning**
+
 Collected raw sales, product, and store location data.
 
 Removed whitespace, duplicates, and standardized column formats.
@@ -15,7 +18,8 @@ Validated and corrected data types (e.g., dates, numerical fields).
 
 Ensured consistency and completeness for critical dimensions like product categories and timestamps.
 
-2️⃣ Data Transformation & Feature Engineering
+2️⃣ **Data Transformation & Feature Engineering**
+
 Extracted new dimensions such as:
 
 Month and Day Name from Order Date for seasonal trend analysis.
@@ -30,7 +34,8 @@ Delivery Time Lag = Delivery Date - Order Date (in days).
 
 Revenue = Quantity × Price.
 
-3️⃣ Data Modeling
+3️⃣ **Data Modeling**
+
 Merged multiple tables using primary keys such as Product ID and Customer ID.
 
 Applied Star Schema modeling:
@@ -45,7 +50,8 @@ excel
 Copy
 Edit
 =FORMAT(Order[Order_Date],"DDDD")
-4️⃣ Pivot Tables & Insights Generation
+4️⃣ **Pivot Tables & Insights Generation**
+
 Created key pivot tables to drive dashboard metrics:
 
 Total Revenue and Quantity Ordered.
@@ -60,7 +66,8 @@ Top 5 Products by Sales.
 
 Orders and Revenue by Weekdays.
 
-5️⃣ Visualization & Dashboard Design
+5️⃣ **Visualization & Dashboard Design**
+
 Built an interactive Excel dashboard with user-friendly slicers:
 
 Filters for Month, Day, and Product Category.
