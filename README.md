@@ -1,6 +1,6 @@
 # ☕ Cafe Coffee House - Sales Dashboard Project
 
-This project presents a comprehensive dashboard for **Cafe Coffee House**, designed to analyze and visualize business performance using key sales and customer insights. It provides a snapshot of operational metrics, helping stakeholders make informed decisions based on real-time data.
+_This project presents a comprehensive dashboard for **Cafe Coffee House**, designed to analyze and visualize business performance using key sales and customer insights. It provides a snapshot of operational metrics, helping stakeholders make informed decisions based on real-time data._
 
 📌**Project Overview**
 
